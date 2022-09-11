@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Sep 14 17:06:04 2021
+# Process ID: 15776
+# Current directory: G:/Vivado/Assignment2/Assignment2.sim/sim_1/behav/xsim
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9960 G:\Vivado\Assignment2\Assignment2.sim\sim_1\behav\xsim\Task_2_tb_behav.wdb
+# Log file: G:/Vivado/Assignment2/Assignment2.sim/sim_1/behav/xsim/vivado.log
+# Journal file: G:/Vivado/Assignment2/Assignment2.sim/sim_1/behav/xsim\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database {G:\Vivado\Assignment2\Assignment2.sim\sim_1\behav\xsim\Task_2_tb_behav.wdb}
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.1/data/ip'.
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Sep 14 17:08:22 2021...
